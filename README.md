@@ -8,6 +8,7 @@ Detect key facial landmarks (key points on the face) and construct a graph.
 Define vertices and edges based on the distance between key points.
 Adjust edge count so that the number of edges is at least 10% of the total possible edges.
 Display the graph.
+
 Phase 2 (Additional Features):
 
 Create a dataset of facial images, each labeled with an emotion (e.g., Happy, Sad, Angry).
